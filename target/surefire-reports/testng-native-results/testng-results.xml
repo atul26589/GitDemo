@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="232" started-at="2020-03-01T19:15:54Z" finished-at="2020-03-01T19:15:55Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="232" started-at="2020-03-01T19:15:54Z" finished-at="2020-03-01T19:15:55Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="Cloud()[pri:0, instance:qaclickacademy.AppiumTest@174d20a]" name="Cloud" duration-ms="186" started-at="2020-03-02T00:45:54Z" finished-at="2020-03-02T00:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cloud -->
+        <test-method status="PASS" signature="MobileAutomation()[pri:0, instance:qaclickacademy.AppiumTest@174d20a]" name="MobileAutomation" duration-ms="0" started-at="2020-03-02T00:45:55Z" finished-at="2020-03-02T00:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="Requestsent()[pri:0, instance:qaclickacademy.RestAPITest@215be6bb]" name="Requestsent" duration-ms="1" started-at="2020-03-02T00:45:55Z" finished-at="2020-03-02T00:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Requestsent -->
+        <test-method status="PASS" signature="Responsereceived()[pri:0, instance:qaclickacademy.RestAPITest@215be6bb]" name="Responsereceived" duration-ms="0" started-at="2020-03-02T00:45:55Z" finished-at="2020-03-02T00:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Responsereceived -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@4439f31e]" name="BrowserAutomation" duration-ms="0" started-at="2020-03-02T00:45:55Z" finished-at="2020-03-02T00:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="UIAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@4439f31e]" name="UIAutomation" duration-ms="0" started-at="2020-03-02T00:45:55Z" finished-at="2020-03-02T00:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIAutomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
